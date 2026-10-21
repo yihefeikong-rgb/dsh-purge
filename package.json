@@ -31,13 +31,15 @@
     "screenshots.json",
     "README.md",
     "README.zh-CN.md",
-    "LICENSE"
+    "README.en.md",
+    "LICENSE",
+    "LICENSE-COMMERCIAL.md"
   ],
   "scripts": {
     "embed-prompt": "node scripts/embed-default-prompt.mjs",
     "build:client": "node scripts/build-client.mjs"
   },
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "keywords": [
     "dsh",
     "dsh-plugin",
